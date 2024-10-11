@@ -1,5 +1,5 @@
 # Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning
-### <p align="center">[AISTATS 2024]</p>
+### <p align="center">[NeurIPS 2024]</p>
 <p align="center">
   <a>Zhishuai Liu</a> ·
   <a href="https://panxulab.github.io/">Pan Xu</a>
